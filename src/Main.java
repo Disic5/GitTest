@@ -5,9 +5,10 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
-class Test{
+
+class Test {
     public static void main(String[] args) {
         System.out.println("Жаксы");
-        System.out.println("Жаксы");
+        System.out.println("Жаксы коремын");
     }
 }
